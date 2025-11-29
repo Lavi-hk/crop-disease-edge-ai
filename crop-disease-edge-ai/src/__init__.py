@@ -1,0 +1,1 @@
+"""Crop Disease Detection - Edge AI Library"""

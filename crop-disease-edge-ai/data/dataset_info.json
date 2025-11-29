@@ -1,0 +1,30 @@
+{
+  "name": "Crop Disease Detection Dataset",
+  "description": "PlantVillage dataset with 54,000+ images of crop diseases",
+  "source": "https://plantvillage.org",
+  "license": "CC0 Public Domain",
+  "num_classes": 39,
+  "num_images": 54000,
+  "crops": [
+    "Apple",
+    "Blueberry",
+    "Cherry",
+    "Corn",
+    "Grape",
+    "Orange",
+    "Peach",
+    "Pepper",
+    "Potato",
+    "Raspberry",
+    "Soybean",
+    "Squash",
+    "Strawberry",
+    "Tomato",
+    "Wheat"
+  ],
+  "split": {
+    "train": 0.7,
+    "validation": 0.15,
+    "test": 0.15
+  }
+}
